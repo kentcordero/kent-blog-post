@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:4000';
+const API_URL = 'https://blogpost-api-leex.onrender.com';
 
 export const USER_ENDPOINTS = Object.freeze({
     REGISTER: `${API_URL}/users/register`,
